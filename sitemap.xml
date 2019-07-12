@@ -100,8 +100,42 @@
   </url>
   
   <url>
-    <loc>https://oliveai.github.io/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://oliveai.github.io/project/internal-project/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliveai.github.io/tags/machine-learning/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliveai.github.io/project/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliveai.github.io/publication_types/2/</loc>
+    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliveai.github.io/publication/journal-article/</loc>
+    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliveai.github.io/authors/jin-xie/</loc>
+    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oliveai.github.io/authors/weisheng-chen/</loc>
+    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,17 +151,6 @@
   </url>
   
   <url>
-    <loc>https://oliveai.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://oliveai.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://oliveai.github.io/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -139,23 +162,6 @@
   </url>
   
   <url>
-    <loc>https://oliveai.github.io/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oliveai.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://oliveai.github.io/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://oliveai.github.io/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -164,6 +170,12 @@
   <url>
     <loc>https://oliveai.github.io/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliveai.github.io/authors/robert-ford/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
